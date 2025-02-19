@@ -1,2 +1,2 @@
-# image2pdf
+#png to pdf
 convert png to pdf
